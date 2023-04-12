@@ -1,0 +1,182 @@
+[
+  {
+    "name": "旭川",
+    "q": "Asahikawa"
+  },
+  {
+    "name": "札幌",
+    "q": "Sapporo"
+  },
+  {
+    "name": "函館",
+    "q": "Hakodate"
+  },
+  {
+    "name": "青森",
+    "q": "Aomori"
+  },
+  {
+    "name": "秋田",
+    "q": "Akita"
+  },
+  {
+    "name": "盛岡",
+    "q": "Morioka"
+  },
+  {
+    "name": "仙台",
+    "q": "Sendai"
+  },
+  {
+    "name": "新潟",
+    "q": "Niigata"
+  },
+  {
+    "name": "福島",
+    "q": "Fukushima"
+  },
+  {
+    "name": "郡山",
+    "q": "Koriyama"
+  },
+  {
+    "name": "いわき",
+    "q": "Iwaki"
+  },
+  {
+    "name": "富山",
+    "q": "Toyama"
+  },
+  {
+    "name": "長野",
+    "q": "Nagano"
+  },
+  {
+    "name": "金沢",
+    "q": "Kanazawa"
+  },
+  {
+    "name": "東京",
+    "q": "Tokyo"
+  },
+  {
+    "name": "横浜",
+    "q": "Yokohama"
+  },
+  {
+    "name": "静岡",
+    "q": "Shizuoka"
+  },
+  {
+    "name": "浜松",
+    "q": "Hamamatsu"
+  },
+  {
+    "name": "岡崎",
+    "q": "Okazaki"
+  },
+  {
+    "name": "名古屋",
+    "q": "Nagoya"
+  },
+  {
+    "name": "京都",
+    "q": "Kyoto"
+  },
+  {
+    "name": "大阪",
+    "q": "Osaka"
+  },
+  {
+    "name": "奈良",
+    "q": "Nara"
+  },
+  {
+    "name": "神戸",
+    "q": "Kobe"
+  },
+  {
+    "name": "姫路",
+    "q": "Himeji"
+  },
+  {
+    "name": "岡山",
+    "q": "Okayama"
+  },
+  {
+    "name": "倉敷",
+    "q": "Kurashiki"
+  },
+  {
+    "name": "高松",
+    "q": "Takamatsu"
+  },
+  {
+    "name": "広島",
+    "q": "Hiroshima"
+  },
+  {
+    "name": "松山",
+    "q": "Matsuyama"
+  },
+  {
+    "name": "北九州",
+    "q": "Kitakyushu"
+  },
+  {
+    "name": "福岡",
+    "q": "Fukuoka"
+  },
+  {
+    "name": "大分",
+    "q": "Oita"
+  },
+  {
+    "name": "熊本",
+    "q": "Kumamoto"
+  },
+  {
+    "name": "長崎",
+    "q": "Nagasaki"
+  },
+  {
+    "name": "宮崎",
+    "q": "Miyazaki"
+  },
+  {
+    "name": "都城",
+    "q": "Miyakonojo"
+  },
+  {
+    "name": "鹿児島",
+    "q": "Kagoshima"
+  },
+  {
+    "name": "名護",
+    "q": "Nago"
+  },
+  {
+    "name": "沖縄",
+    "q": "Okinawa"
+  },
+  {
+    "name": "那覇",
+    "q": "Naha"
+  },
+  {
+    "name": "平良(宮古島)",
+    "q": "Hirara"
+  },
+  {
+    "name": "下地",
+    "q": "shimochi"
+  },
+  {
+    "name": "石垣",
+    "q": "Ishigaki"
+  },
+  {
+    "name": "竹富",
+    "q": "Taketomi"
+  }
+]
